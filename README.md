@@ -5,7 +5,7 @@ Além disso, queremos ver sua análise baseada em intervalos de tempos, baseando
 
 ## Conjuntos de Dados
 
-Os conjuntos de dados utilizados foram obtidos a partir de duas fontes principais:
+Os conjuntos de dados utilizados foram obtidos a partir de uma fonte principal:
 
 ### Download dos dados de perfil dos municípios
 
