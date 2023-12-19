@@ -25,4 +25,4 @@ Os conjuntos de dados utilizados foram obtidos a partir de uma fonte principal:
 
 No decorrer da análise iremos avaliar algoritmos e fórmulas usadas, visualização de dados, como foi realizada a extração e sua capacidade de comunicação assertiva dos dados. Sinta-se a vontade para contribuir com sugestões, melhorias ou correções. Crie uma cópia do notebook no google collab https://colab.research.google.com/drive/1oyfbLGB9ui_1YwzG5iTimxkmFXLvBGlR?usp=sharing, e terminando, envie um email para (matheusdantas@proesc.com)
 
-Certifique-se de seguir as diretrizes de ética e privacidade ao lidar com dados sensíveis. E seja bem vindo (a), novo (a) Proescker, estamos ansiosos conversar com você. 💚
+Certifique-se de seguir as diretrizes de ética e privacidade ao lidar com dados sensíveis. Esperamos conversar com você em breve 💚
