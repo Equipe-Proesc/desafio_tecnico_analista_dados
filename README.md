@@ -1,6 +1,6 @@
 # Desafio técnico de Análise de Dados da Proesc
 
-Olá! Seja bem vindo (a) a nosso desafio de analista de dados, iremos validar suas habilidades em relação a análise de dados, ETL e capacidade analítica. Aqui seu desafio será de explorar as relações entre taxas de aprovação da Prouni e o explorar possíveis causas/políticas levam a certos municípios terem grandes diferenças, deixaremos em aberto a análise do município para você trazer seus insights 😉.
+Olá! Seja bem vindo (a) a nosso desafio de analista de dados, iremos validar suas habilidades em relação a análise de dados, ETL e capacidade analítica. Aqui seu desafio será de explorar as relações entre taxas de aprovação da Prouni e explorar possíveis causas/políticas que levam certos municípios a terem diferenças em suas taxas, deixaremos em aberto a análise do município para você trazer seus insights 😉.
 Além disso, queremos ver sua análise baseada em intervalos de tempos, baseando-se nos dados de 2017 e 2021. Vamos verificar o que te aguarda?
 
 ## Conjuntos de Dados
