@@ -1,6 +1,6 @@
 # Desafio técnico de Análise de Dados da Proesc
 
-Olá! Seja bem vindo a nosso desafio de analista de dados, iremos validar suas habilidades em relação a análise de dados, ETL e capacidade analítica. Aqui seu desafio será de explorar as relações entre taxas de aprovação da Prouni e o que esses municípios tem em comum no geral, deixaremos em aberto a análise do município para você trazer seus insights 😉.
+Olá! Seja bem vindo (a) a nosso desafio de analista de dados, iremos validar suas habilidades em relação a análise de dados, ETL e capacidade analítica. Aqui seu desafio será de explorar as relações entre taxas de aprovação da Prouni e o explorar possíveis causas/políticas levam a certos municípios terem grandes diferenças, deixaremos em aberto a análise do município para você trazer seus insights 😉.
 Além disso, queremos ver sua análise baseada em intervalos de tempos, baseando-se nos dados de 2017 e 2021. Vamos verificar o que te aguarda?
 
 ## Conjuntos de Dados
@@ -23,6 +23,6 @@ Os conjuntos de dados utilizados foram obtidos a partir de duas fontes principai
 
 5. Sua conclusão baseada na análise, sobre possíveis abordagens que possam vir fazer mais municípios crescerem em aprovados.
 
-No decorrer da análise iremos avaliar algoritmos e fórmulas usadas, visualização de dados, como foi realizada a extração e sua capacidade de comunicação assertiva dos dados. Sinta-se a vontade para contribuir com sugestões, melhorias ou correções. Crie uma cópia do notebook no google collab (https://link.collab), e terminando, envie um email para (matheusdantas@proesc.com)
+No decorrer da análise iremos avaliar algoritmos e fórmulas usadas, visualização de dados, como foi realizada a extração e sua capacidade de comunicação assertiva dos dados. Sinta-se a vontade para contribuir com sugestões, melhorias ou correções. Crie uma cópia do notebook no google collab https://colab.research.google.com/drive/1oyfbLGB9ui_1YwzG5iTimxkmFXLvBGlR?usp=sharing, e terminando, envie um email para (matheusdantas@proesc.com)
 
-Certifique-se de seguir as diretrizes de ética e privacidade ao lidar com dados sensíveis. E seja bem vindo, novo Proescker 💚
+Certifique-se de seguir as diretrizes de ética e privacidade ao lidar com dados sensíveis. E seja bem vindo (a), novo (a) Proescker, estamos ansiosos conversar com você. 💚
